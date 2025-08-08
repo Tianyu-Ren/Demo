@@ -1,0 +1,8 @@
+{
+  "api_key": "",
+  "obligation_model": "gpt-4o-mini",
+  "question_model": "meta-llama/Llama-3.1-8B-Instruct", 
+  "evaluation_model": "meta-llama/Llama-3.1-8B-Instruct",
+  "question_port": "7808",
+  "evaluation_port": "7808"
+}
